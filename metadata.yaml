@@ -1,0 +1,44 @@
+_repo: Bismarck-et-la-France_73478
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bainville, Jacques
+    birthdate: 1879
+    deathdate: 1936
+    gutenberg_agent_id: '52467'
+    url: http://www.gutenberg.org/2009/agents/52467
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jacques_Bainville
+    - https://fr.wikipedia.org/wiki/Jacques_Bainville
+description: ''
+gutenberg_issued: '2024-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73478'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5698072w
+pgterms:marc905: 20210510134621bainville
+pgterms:marc906: '1915'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bNouvelle librairie nationale, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bismarck, Otto, Fürst von, 1815-1898'
+- !lcsh 'Europe -- Politics and government -- 1789-1900'
+- !lcsh 'Germany -- Foreign relations -- France'
+- !lcsh 'France -- Foreign relations -- Germany'
+- !lcsh 'Hohenlohe-Schillingsfürst, Chlodwig Karl Viktor, Fürst zu, 1819-1901. Denkwürdigkeiten'
+- !lcc 'DD'
+- GITenberg
+tableOfContents: Avertissement -- Bismarck et la France d'après les Mémoires du prince
+  de Hohenlohe -- Les souvenirs de M. de Gontaut-Biron et sa mission à Berlin -- Les
+  idées napoléoniennes et l'unité allemande -- Les alliances de 1870 -- Les difficultés
+  de l'unité allemande -- Les jeunesse et les premières armes de Bismarck -- Le centenaire
+  d'Iéna -- Appendices.
+title: Bismarck et la France
+url: http://www.gutenberg.org/ebooks/73478
